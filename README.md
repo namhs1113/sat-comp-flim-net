@@ -7,3 +7,6 @@ To download the dataset, run the following commands in your terminal:
 ```bash
 curl -L -o dataset.zip "https://www.dropbox.com/scl/fi/qfwo3257dmubn17506nv3/dataset.zip?rlkey=ys6q8lo5x8rqblhrv49ojcyd5&st=cfs6bb7d&dl=1"
 unzip dataset.zip
+```
+
+Additional raw data can be made accessible for research purposes upon reasonable request, contingent upon approval from the Institutional Review Board at Korea University Guro Hospital.
