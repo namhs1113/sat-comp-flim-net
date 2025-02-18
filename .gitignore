@@ -1,0 +1,11 @@
+.idea/
+dataset/new/
+dataset/train/
+dataset/valid/
+dataset/test/
+network/old/
+network/alternatives
+*/__pycache__/*.*
+validation/
+.DS_Store
+*/.DS_Store
